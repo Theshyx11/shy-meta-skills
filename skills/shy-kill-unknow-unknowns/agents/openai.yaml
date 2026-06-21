@@ -1,0 +1,4 @@
+interface:
+  display_name: "shy-kill_unknow_unknowns"
+  short_description: "重构问题定义，发现未知未知，并跳出反复无效优化循环。"
+  default_prompt: "帮我用 shy-kill_unknow_unknowns 审判当前问题定义，找出我不知道自己不知道的盲区，并给出破局方向。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "shy-theory_grounding"
+  short_description: "从现实困境逆向定位理论地基、历史人物和学科思想源流。"
+  default_prompt: "帮我用 shy-theory_grounding 从这个困境逆向寻找相关理论地基、历史人物和学科源流。"

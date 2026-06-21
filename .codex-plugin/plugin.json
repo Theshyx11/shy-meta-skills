@@ -1,0 +1,36 @@
+{
+  "name": "shy-meta-skills",
+  "version": "0.1.0",
+  "description": "Codex plugin that bundles Shy meta-thinking skills for knowledge topology, theory grounding, and unknown-unknown discovery.",
+  "author": {
+    "name": "Theshyx11",
+    "url": "https://github.com/Theshyx11"
+  },
+  "repository": "https://github.com/Theshyx11/shy-meta-skills",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "skills",
+    "metacognition",
+    "strategy",
+    "research"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Shy Meta Skills",
+    "shortDescription": "Three meta-thinking skills for Codex.",
+    "longDescription": "Shy Meta Skills bundles three Codex skills: knowledge topology for mapping a concept into its broader field, theory grounding for tracing practical problems back to historical theory, and unknown-unknown discovery for reframing stuck problems.",
+    "developerName": "Theshyx11",
+    "category": "Productivity",
+    "capabilities": [
+      "Research",
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use shy-knowledge-topology on this concept.",
+      "Find the theory ground behind this problem.",
+      "Use shy-kill-unknow-unknowns to reframe this."
+    ]
+  }
+}

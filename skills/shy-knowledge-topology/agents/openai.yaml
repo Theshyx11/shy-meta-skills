@@ -1,0 +1,4 @@
+interface:
+  display_name: "shy-knowledge_topology"
+  short_description: "从概念逆向生成知识树、上级集合、同级概念和认知盲区。"
+  default_prompt: "帮我用 shy-knowledge_topology 从这个概念逆向生成知识树，并指出同级概念和盲区。"
