@@ -1,0 +1,4 @@
+interface:
+  display_name: "math-modeling-decomposer"
+  short_description: "把现实问题拆成数学模型、公式、计算与验证。"
+  default_prompt: "Use $math-modeling-decomposer to turn this real-world problem into variables, formulas, calculations, and validation steps."

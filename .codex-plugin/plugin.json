@@ -1,7 +1,7 @@
 {
   "name": "shy-meta-skills",
   "version": "0.1.0",
-  "description": "Codex plugin that bundles Shy meta-thinking skills for knowledge topology, theory grounding, and unknown-unknown discovery.",
+  "description": "Codex plugin that bundles Shy meta-thinking skills for knowledge topology, theory grounding, unknown-unknown discovery, and mathematical modeling.",
   "author": {
     "name": "Theshyx11",
     "url": "https://github.com/Theshyx11"
@@ -18,8 +18,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Shy Meta Skills",
-    "shortDescription": "Three meta-thinking skills for Codex.",
-    "longDescription": "Shy Meta Skills bundles three Codex skills: knowledge topology for mapping a concept into its broader field, theory grounding for tracing practical problems back to historical theory, and unknown-unknown discovery for reframing stuck problems.",
+    "shortDescription": "Meta-thinking and mathematical modeling skills for Codex.",
+    "longDescription": "Shy Meta Skills bundles Codex skills for mapping concepts into broader fields, tracing practical problems back to historical theory, discovering unknown unknowns, and turning real-world problems into mathematical models, formulas, calculations, and validation plans.",
     "developerName": "Theshyx11",
     "category": "Productivity",
     "capabilities": [
@@ -30,7 +30,8 @@
     "defaultPrompt": [
       "Use shy-knowledge-topology on this concept.",
       "Find the theory ground behind this problem.",
-      "Use shy-kill-unknow-unknowns to reframe this."
+      "Use shy-kill-unknow-unknowns to reframe this.",
+      "Use math-modeling-decomposer to turn this problem into variables, formulas, calculations, and validation steps."
     ]
   }
 }
