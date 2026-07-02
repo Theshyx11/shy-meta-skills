@@ -1,0 +1,4 @@
+interface:
+  display_name: "james-simons"
+  short_description: "用詹姆斯西蒙斯式量化思维生成研究提示词。"
+  default_prompt: "请用 james-simons 结合当前上下文生成一个可执行的量化研究提示词。"

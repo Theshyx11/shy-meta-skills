@@ -1,0 +1,4 @@
+interface:
+  display_name: "shy-sop-path-decomposer"
+  short_description: "把粗 SOP 拆成理论地基、路径节点和验证动作。"
+  default_prompt: "请用 shy-sop-path-decomposer 把这个粗糙方向拆成可执行路径、节点动作、判断标准和停止条件。"

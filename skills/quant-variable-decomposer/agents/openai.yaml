@@ -1,0 +1,4 @@
+interface:
+  display_name: "quant-variable-decomposer"
+  short_description: "用四位量化人物审判策略变量、证据和验证路径。"
+  default_prompt: "请用 quant-variable-decomposer 审判这个量化策略问题，拆出变量、证据缺口、最小验证实验和停止条件。"

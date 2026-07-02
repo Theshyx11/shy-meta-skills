@@ -1,0 +1,4 @@
+interface:
+  display_name: "shy-language-precision-auditor"
+  short_description: "按需审计表达贫瘠、字段缺口和问题框架。"
+  default_prompt: "请用 shy-language-precision-auditor 审计我的表达，补全字段池，并把问题重写成更专业、更可执行的版本。"

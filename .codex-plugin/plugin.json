@@ -1,7 +1,7 @@
 {
   "name": "shy-meta-skills",
-  "version": "0.1.0",
-  "description": "Codex plugin that bundles Shy meta-thinking skills for knowledge topology, theory grounding, unknown-unknown discovery, and mathematical modeling.",
+  "version": "0.2.0",
+  "description": "Codex plugin that bundles Shy meta-thinking skills for knowledge topology, theory grounding, unknown-unknown discovery, SOP decomposition, mathematical modeling, quant research, language precision auditing, and James Simons style research prompting.",
   "author": {
     "name": "Theshyx11",
     "url": "https://github.com/Theshyx11"
@@ -19,7 +19,7 @@
   "interface": {
     "displayName": "Shy Meta Skills",
     "shortDescription": "Meta-thinking and mathematical modeling skills for Codex.",
-    "longDescription": "Shy Meta Skills bundles Codex skills for mapping concepts into broader fields, tracing practical problems back to historical theory, discovering unknown unknowns, and turning real-world problems into mathematical models, formulas, calculations, and validation plans.",
+    "longDescription": "Shy Meta Skills bundles Codex skills for mapping concepts into broader fields, tracing practical problems back to historical theory, discovering unknown unknowns, decomposing rough SOPs into executable paths, turning real-world problems into mathematical models, auditing quant research variables and evidence, improving language precision, and generating James Simons style research prompts.",
     "developerName": "Theshyx11",
     "category": "Productivity",
     "capabilities": [
@@ -31,7 +31,11 @@
       "Use shy-knowledge-topology on this concept.",
       "Find the theory ground behind this problem.",
       "Use shy-kill-unknow-unknowns to reframe this.",
-      "Use math-modeling-decomposer to turn this problem into variables, formulas, calculations, and validation steps."
+      "Use shy-sop-path-decomposer to turn this rough SOP into executable nodes.",
+      "Use math-modeling-decomposer to turn this problem into variables, formulas, calculations, and validation steps.",
+      "Use quant-variable-decomposer to audit this trading strategy's variables, samples, validation, execution cost, and kill conditions.",
+      "Use shy-language-precision-auditor to audit this expression's missing variables and judgment criteria.",
+      "Use james-simons to generate a quant research prompt from this context."
     ]
   }
 }
